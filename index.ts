@@ -1,11 +1,8 @@
 Archivo Index.ts
-Sesion del lunes 13 de marzo
-introduccion a GIT
+Sesión del lunes 13 de marzo
+Introduccion a GIT
 
-
-
-contenido que quiero guardar
-aaaaaaaa
+=======
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Quisque vehicula mauris sit amet orci lacinia consectetur.
 Fusce in ipsum viverra, pellentesque odio eu, aliquet massa.
