@@ -1,4 +1,8 @@
-agregando mas contenido
+Archivo Index.ts
+Sesion del lunes 13 de marzo
+introduccion a GIT
+
+
 
 contenido que quiero guardar
 aaaaaaaa
